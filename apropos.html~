@@ -1,0 +1,32 @@
+ <link rel="stylesheet" href="voiture.css">	
+<body style="background-color:#74A574">
+	<div id="header">
+	<h1>bienvenue sur la page que j'ai cree</h1>
+
+
+
+	<nav>	
+
+    		<ul id="menu">
+			<li>
+			<form>
+				<input type="text" placeholder ="google">
+				<input id="recherche" type="submit" name="recherche" value=""/>		
+			</form>
+			</li>
+		  	<li><a href="index.html">Accueil</a></li>
+     			<li><a href="contact.html">Contact</a></li>  
+     			<li><a href="a propos.html">A propos</li></a>
+
+		   
+	
+    		</ul>
+		<a href="index.html"><img src="image/index.png"/></a>
+	</div>
+j'aime bien le 4x4 , je suis abonner a une revue landhttp://foucaud2.github.io/land-rover/ mag,j'aime aussi le bivouac bref l'aventure et surtout voyager pour plus d'infos aller sur mon site
+<div class="gauche">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AuFZRPJ4oIo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmH42pjBGBc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gN0ciKUwuGI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmXlL6wkApI" frameborder="0" allowfullscreen></iframe>
+
