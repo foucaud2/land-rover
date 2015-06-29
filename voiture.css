@@ -59,6 +59,11 @@ right: 100px;
   left: 140px;
 
 }
+#linkedig{
+  position:absolute;
+  bottom:5px;
+  left: 193px;
+}
 #titre_bas {
 	position:absolute;
 	bottom: 80px;
