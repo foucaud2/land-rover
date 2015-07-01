@@ -56,13 +56,14 @@ right: 100px;
 #google {
   position: absolute;
   bottom: 5px;
-  left: 140px;
+  left: 130px;
 
 }
 #linkedin{
   position:absolute;
   bottom:5px;
   left: 193px;
+  width:10px;
 }
 #titre_bas {
 	position:absolute;
